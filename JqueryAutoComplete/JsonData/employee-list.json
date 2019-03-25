@@ -1,0 +1,49 @@
+﻿{
+"items": {
+"Table": [
+  {
+    "EMP_OFFICE_CODE": "2019001",
+    "EMP_NAME": "Mr. Istiaq Hossain",
+    "EMP_DESG_NAME": "Software Engineer",
+    "EMP_BRANCH_NAME": "MSDSL"
+  },
+  {
+    "EMP_OFFICE_CODE": "2019002",
+    "EMP_NAME": "Mr. Riyad saiful",
+    "EMP_DESG_NAME": "Veteran doctor",
+    "EMP_BRANCH_NAME": "MSDSL"
+  }
+  ,
+  {
+    "EMP_OFFICE_CODE": "2019003",
+    "EMP_NAME": "Mr. Minhaz Uddin Buhiyan",
+    "EMP_DESG_NAME": "Businessman",
+    "EMP_BRANCH_NAME": "MSDSL"
+  }
+  ,
+  {
+    "EMP_OFFICE_CODE": "2019004",
+    "EMP_NAME": "Mr. Abdullah al Masud",
+    "EMP_DESG_NAME": "Mba Bachelor of arts",
+    "EMP_BRANCH_NAME": "MSDSL"
+  }
+  ,
+  {
+    "EMP_OFFICE_CODE": "2019005",
+    "EMP_NAME": "Mr. Shoikat alam",
+    "EMP_DESG_NAME": "Software Engineer",
+    "EMP_BRANCH_NAME": "MSDSL"
+  }
+  ,
+  {
+    "EMP_OFFICE_CODE": "2019006",
+    "EMP_NAME": "Mr. Ashraf Uddin Ahmed",
+    "EMP_DESG_NAME": "Software Backend Developer",
+    "EMP_BRANCH_NAME": "MSDSL"
+  }
+]
+},
+"status": 200,
+"statusText": "Success",
+"totalItems": 0.0
+}

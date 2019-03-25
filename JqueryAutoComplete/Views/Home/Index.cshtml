@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Create";
+}
+<div class="content">
+    <div class="widget widget-now">
+       
+        <div class="widget-header row no-gutters align-items-center justify-content-between pl-4 py-4" style="overflow: hidden; padding-right: 10px;">
+
+            <span class="myAutocomplete"></span>
+            <input id="myAutocomplete" type="text" placeholder="Type employee name...." />
+
+        </div>
+        <div class="divider"></div>
+
+        <div class="widget-content d-flex align-items-center justify-content-center p-4 pb-6">
+            <button type="button" class="btn btn-outline-primary fuse-ripple-ready" id="Save" style=" background: linear-gradient(to left, #fc466b, #3f5efb);; color: white;border:1px solid white">
+                <i class="icon-content-save" style="color: inherit"></i>   Add
+            </button>
+            <button type="button" class="btn btn-outline-primary fuse-ripple-ready" id="clearAll" style=" background: linear-gradient(to left, #fc466b, #3f5efb);; color: white;border:1px solid white">
+                <i class="icon-delete-empty" style="color: inherit"></i>   Clear All
+            </button>
+            <button type="button" class="btn btn-outline-primary fuse-ripple-ready" id="reload" style="background: linear-gradient(120deg, #BA3694, #5983e8); color: white; border: 1px solid white">
+                <i class="icon-refresh" style="color: inherit"></i>   Refresh
+            </button>
+
+        </div>
+
+
+        <div class="widget-header row no-gutters align-items-center justify-content-between pl-4 py-4" style="overflow: hidden; padding-right: 10px; ">
+
+            <input id="myAutocompleteList" readonly type="text" placeholder="Here goes the added list of employee..." style="width:800px">
+        </div>
+
+      
+
+
+    </div>
+
+</div>
+@section scripts
+{
+  
+<script src="~/Scripts/employee.js"></script>
+ 
+}
+
+
+
